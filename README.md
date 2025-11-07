@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Kani Jayachandran!
 
-🌱 I'm a first-year Engineering student with a passion for coding, problem-solving, and building projects.
+🌱 I'm a second-year Engineering student with a passion for coding, problem-solving, and building projects.
 
 🧠 I’m currently learning:
 - C++ for DSA
 - Core Computer Science concepts
-- Building real-world projects (recent: Weather app 🕹️)
+- Building real-world projects
 
-💻 I’ve solved 250+ LeetCode problems and I'm constantly improving my skills.
+💻 I’ve solved 400+ LeetCode problems and I'm constantly improving my skills.
 
 🔭 I’m currently working on:
 - Strengthening my Data Structures & Algorithms

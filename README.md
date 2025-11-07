@@ -3,7 +3,7 @@
 🌱 I'm a second-year Engineering student with a passion for coding, problem-solving, and building projects.
 
 🧠 I’m currently learning:
-- C++ for DSA
+- Java for DSA
 - Core Computer Science concepts
 - Building real-world projects
 

@@ -5,7 +5,7 @@
 🧠 I’m currently learning:
 - Java for DSA
 - Core Computer Science concepts
-- Building real-world projects
+- Building real-world projects(Currently working on Chatapp and Online Learning Management System)
 
 💻 I’ve solved 400+ LeetCode problems and I'm constantly improving my skills.
 

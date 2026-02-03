@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Kani Jayachandran!
 
-🌱 I'm a second-year Engineering student with a passion for coding, problem-solving, and building projects.
+🌱 I'm a second-year Engineering student with a passion for coding, problem-solving, and building projects. Finalist of National Geo AI Hackathon(IIT Bombay).
 
 🧠 I’m currently learning:
 - Java for DSA
 - Core Computer Science concepts
-- Building real-world projects(Currently working on Chatapp and Online Learning Management System)
+- Building real-world projects(Currently working on Agentic Multimodel Co-Pilot for Doctors)
 
 💻 I’ve solved 400+ LeetCode problems and I'm constantly improving my skills.
 
@@ -16,7 +16,7 @@
 📚 I'm interested in:
 - Problem Solving
 - Competitive Programming
-- Web Development
+- Devops
 - Exploring different technologies
 
 

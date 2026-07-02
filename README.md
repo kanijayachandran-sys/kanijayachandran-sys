@@ -7,7 +7,7 @@
 - Core Computer Science concepts
 - Building real-world projects(Currently working on Agentic Multimodel Co-Pilot for Doctors)
 
-💻 I’ve solved 400+ LeetCode problems and I'm constantly improving my skills.
+💻 I’ve solved 700+ LeetCode problems and I'm constantly improving my skills.
 
 🔭 I’m currently working on:
 - Strengthening my Data Structures & Algorithms

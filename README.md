@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kani Jayachandran!
 
-🌱 I'm a second-year Engineering student with a passion for coding, problem-solving, and building projects. Finalist of National Geo AI Hackathon(IIT Bombay).
+🌱 I'm a third-year Engineering student with a passion for coding, problem-solving, and building projects. Finalist of National Geo AI Hackathon(IIT Bombay).
 
 🧠 I’m currently learning:
 - Java for DSA

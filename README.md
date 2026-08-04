@@ -97,9 +97,7 @@ A safety-focused application designed to provide quick emergency assistance and 
   />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanijayachandran-sys\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanijayachandran-sys\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kanijayachandran-sys\&theme=tokyonight\&hide_border=true)
 

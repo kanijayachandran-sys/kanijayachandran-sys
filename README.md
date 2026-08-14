@@ -18,7 +18,6 @@ const Kani = {
 * 🧠 Strengthening **Data Structures & Algorithms**
 * ☕ Preparing for **GATE CSE**
 * 💻 Building **full-stack and AI-powered applications**
-* 🤖 Currently working on **VitalsVantage — an Agentic Multimodal Co-Pilot for Doctors**
 * 🏆 Finalist — **National Geo AI Hackathon, IIT Bombay**
 
 ---
